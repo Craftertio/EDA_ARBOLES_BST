@@ -181,4 +181,3 @@ Grupo 15 - Estructura de Datos y Algoritmos I
 
 Escuela Politecnica Nacional
 
-Quito, Ecuador
