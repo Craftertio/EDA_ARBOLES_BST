@@ -1,9 +1,13 @@
 # Arbol Binario de Busqueda (BST) - Proyecto Estructura de Datos
 
 > **Asignatura:** Estructura de Datos y Algoritmos I
+>
 > **Integrantes:** Ambar Salazar, Brenda Veintimilla
+>
 > **Grupo:** 15
+>
 > **Lenguaje:** Java
+>
 > **Cedula utilizada:** 1751167998
 
 ## Descripcion
