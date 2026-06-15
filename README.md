@@ -30,13 +30,13 @@ El comportamiento y estructura final del programa coincide exactamente con el ar
 
 ## Estructura del Proyecto
 
-proyecto-bst/
-├── src/
-│   ├── Nodo.java        # Clase que representa la estructura de un nodo del arbol
-│   ├── ArbolBST.java    # Logica del BST (insercion, busqueda, eliminacion y recorridos)
-│   └── Main.java        # Interfaz de usuario, validacion de cedula y flujo principal
-├── README.md            # Este archivo de documentacion
-└── pseudocodigo.pdf     # Pseudocodigo de las operaciones principales
+* proyecto-bst/
+* ├── src/
+* │   ├── Nodo.java        # Clase que representa la estructura de un nodo del arbol
+* │   ├── ArbolBST.java    # Logica del BST (insercion, busqueda, eliminacion y recorridos)
+* │   └── Main.java        # Interfaz de usuario, validacion de cedula y flujo principal
+* ├── README.md            # Este archivo de documentacion
+* └── pseudocodigo.pdf     # Pseudocodigo de las operaciones principales
 
 ---
 
