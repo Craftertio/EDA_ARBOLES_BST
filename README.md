@@ -122,7 +122,7 @@ Inorden despues: 11 14 15 53 66 77 90 99 120 130
 
 ## Video Explicativo
 
-[Enlace al video sustentacion (YouTube/Drive)](https://youtu.be/tu-enlace-aqui)
+[Enlace al video sustentacion (YouTube/Drive)]([https://youtu.be/tu-enlace-aqui](https://youtu.be/N0lCthceeAE))
 
 El video de sustentacion aborda los siguientes puntos requeridos:
 
