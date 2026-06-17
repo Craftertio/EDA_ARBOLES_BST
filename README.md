@@ -122,16 +122,16 @@ Inorden despues: 11 14 15 53 66 77 90 99 120 130
 
 ## Video Explicativo
 
-[Enlace al video sustentacion (YouTube/Drive)]([https://youtu.be/N0lCthceeAE])
+[Enlace al video de sustentación (YouTube)](https://youtu.be/N0lCthceeAE)
 
-El video de sustentacion aborda los siguientes puntos requeridos:
+El video de sustentación aborda los siguientes puntos requeridos:
 
-* Explicacion detallada de las funciones de insercion y busqueda por un integrante del grupo.
-* Explicacion analitica de los tres casos de eliminacion de nodos por el otro integrante.
-* Demostracion y ejecucion en vivo del software empleando la cedula asignada al grupo.
-* Contraste visual y validacion con el arbol estructurado originalmente en papel.
-* Muestra explicita del caso de eliminacion de la raiz con dos hijos y el correcto reemplazo por su sucesor en orden.
-* Conclusion y retrospectiva sobre la logica de programacion mas compleja de la practica.
+* **Operaciones básicas:** Explicación detallada de las funciones de inserción y búsqueda por parte de un integrante del grupo.
+* **Eliminación de nodos:** Explicación analítica de los tres casos de eliminación de nodos por el otro integrante.
+* **Ejecución en vivo:** Demostración del software en funcionamiento empleando el número de cédula asignado al grupo.
+* **Validación:** Contraste visual y validación de los resultados en consola con el árbol estructurado originalmente en papel.
+* **Caso complejo:** Muestra explícita del caso de eliminación de la raíz con dos hijos y su correcto reemplazo por el sucesor en orden.
+* **Conclusiones:** Retrospectiva sobre la lógica de programación más compleja enfrentada durante la práctica.
 
 ---
 
